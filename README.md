@@ -26,6 +26,10 @@ Screenshots
 
 ![Image](https://github.com/user-attachments/assets/c5e5aad9-2e30-491f-93a9-ebca15a57b37)
 
+![Image](https://github.com/user-attachments/assets/58cfae89-1ca1-42c7-9739-7c96cd6cc4c1)
+
+![Image](https://github.com/user-attachments/assets/67634d83-957c-40b9-8fef-39edafd56c48)
+
 🆁🅴🆀🆄🅸🆁🅴🅼🅴🅽🆃🆂
 
 1.Install nodeJs
