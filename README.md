@@ -11,6 +11,20 @@ Testing Frameworks: Truffle (for testing Solidity contracts)<br>
 Version Control: Git<br>
 Development Environment: Node.js<br>
 
+Screenshots
+![Image](https://github.com/user-attachments/assets/b3e99aa1-aadb-4ffd-92b6-136da7bdea5f)
+
+![Image](https://github.com/user-attachments/assets/457f6b83-97f3-44df-b8e2-bbd12725ba58)
+
+![Image](https://github.com/user-attachments/assets/3f285164-d4fe-497a-9e70-82fd3a7ff3db)
+
+![Image](https://github.com/user-attachments/assets/16ff8f09-ecd8-4803-85bb-4ac91a03ee72)
+
+![Image](https://github.com/user-attachments/assets/60068eac-f3e1-49b2-b61c-c12e9604cb33)
+
+![Image](https://github.com/user-attachments/assets/a929cfe7-dd00-4a2e-9d0e-1a0e1d58ac0c)
+
+![Image](https://github.com/user-attachments/assets/c5e5aad9-2e30-491f-93a9-ebca15a57b37)
 
 🆁🅴🆀🆄🅸🆁🅴🅼🅴🅽🆃🆂
 
