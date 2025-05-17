@@ -12,19 +12,6 @@ Version Control: Git<br>
 Development Environment: Node.js<br>
 
 
-Screenshots : 
-
-<br><br>
-Report has been reflected in record viewer so that both patient and doctor can see : 
-<br>
-<br>
-
-<img width="1395" alt="Screenshot 2024-05-26 at 10 44 59 PM" src="https://github.com/Sonu208/Secure-Electronic-Health-Records/assets/99793746/b5549f81-7dd3-4e2c-8514-b44ed045fec2">
-<br><br>
-<img width="841" alt="Screenshot 2024-05-26 at 10 45 15 PM" src="https://github.com/Sonu208/Secure-Electronic-Health-Records/assets/99793746/c3b6c074-1fc2-4f92-a2ec-f4a3b6b0d4b2">
-
-
-
 🆁🅴🆀🆄🅸🆁🅴🅼🅴🅽🆃🆂
 
 1.Install nodeJs
